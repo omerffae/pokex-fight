@@ -1,9 +1,24 @@
-# React + Vite
+# Pokemon-fight
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Pokemon-fight** Projesi, içerisinde 8 adet pokemon verisi bulunan bir uygulamadır.🚀  
 
-Currently, two official plugins are available:
+![Proje Görseli](./src/img/poke-gif.gif)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# pokex-fight
+---
+
+## 🛠️ Özellikler
+
+- 🔹 **Özellik 1**: REACT, SCSS ve JS ile yazıldı.
+- 🔹 **Özellik 2**: Görseller API den alındır.  
+- 🔹 **Özellik 3**: React ile daha dinamik bir hale getirildi.  
+
+---
+
+## 📚 Kurulum
+
+
+1. Bu projeyi bilgisayarınıza klonlayın:  
+   ```bash
+   cd Klasör adı
+   git clone https://github.com/omerffae/pokex-fight.git
+   Projeyi indirdikten sonra bağlılıkların kurulması için projeyle aynı dizinde konsola "npm i" Yazın, Yazdıktan sonra porjeyi çalıştırmak için konsola "npm run dev" yazmanız yeterlidir.
