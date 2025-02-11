@@ -9,7 +9,7 @@
 ## 🛠️ Özellikler
 
 - 🔹 **Özellik 1**: REACT, SCSS ve JS ile yazıldı.
-- 🔹 **Özellik 2**: Görseller API den alındır.  
+- 🔹 **Özellik 2**: Görseller API den alınmıştır.  
 - 🔹 **Özellik 3**: React ile daha dinamik bir hale getirildi.  
 
 ---
